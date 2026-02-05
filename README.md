@@ -10,5 +10,6 @@ get it because (mc)queen = (mc)git
 - stage your changes (`git add .`)
 - commit your changes (`git commit -m "DESCRIPTIVE COMMIT MESSAGE"`)
 - push your changes (`git push`)
-- create a PR (go back to the main repository, and there should be a button to do it?)
+- create a PR (see [link](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for instructions)
+- wait for it to get merged in
 - boom!
