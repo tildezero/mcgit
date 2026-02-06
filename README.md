@@ -82,4 +82,27 @@ get it because (mc)queen = (mc)git
 - fact about yourself (fun or otherwise): I play basketball
 - favorite color: Blue
 - dogs or cats: dogs
+
+# Neel Perumandla
+
+## Major
+<!-- put an X in the brackets to fill in the checkbox -->
+- [x] CS
+- [ ] ME
+- [ ] ECE
+- [ ] Other: ____
+
+## Year
+- [ ] freshman
+- [x] sophomore
+- [ ] junior
+- [ ] senior
+- [ ] other
+
+## Other related queries
+
+- fact about yourself (fun or otherwise): I don't like watching
+- favorite color: teal
+- dogs or cats: dogs
+- what do you want to learn from mcqueen: aws
 - what do you want to learn from mcqueen: aws
