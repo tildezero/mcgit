@@ -13,3 +13,26 @@ get it because (mc)queen = (mc)git
 - create a PR (see [link](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for instructions)
 - wait for it to get merged in
 - boom!
+
+# Yash Karandikar
+
+## Major
+<!-- put an X in the brackets to fill in the checkbox -->
+- [x] CS
+- [ ] ME
+- [ ] ECE
+- [ ] Other: ____
+
+## Year
+- [ ] freshman
+- [x] sophomore
+- [ ] junior
+- [ ] senior
+- [ ] other
+
+## Other related queries
+
+- fact about yourself (fun or otherwise): I'm a tech lead!
+- favorite color: Blue
+- dogs or cats: both
+- what do you want to learn from mcqueen: hopefully aws
