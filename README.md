@@ -36,3 +36,27 @@ get it because (mc)queen = (mc)git
 - favorite color: Blue
 - dogs or cats: both
 - what do you want to learn from mcqueen: hopefully aws
+
+
+# Tommy Guo
+
+## Major
+<!-- put an X in the brackets to fill in the checkbox -->
+- [x] CS
+- [ ] ME
+- [ ] ECE
+- [ ] Other: ____
+
+## Year
+- [ ] freshman
+- [x] sophomore
+- [ ] junior
+- [ ] senior
+- [ ] other
+
+## Other related queries
+
+- fact about yourself (fun or otherwise): competitive at pips
+- favorite color: blue
+- dogs or cats: both
+- what do you want to learn from mcqueen: aws
